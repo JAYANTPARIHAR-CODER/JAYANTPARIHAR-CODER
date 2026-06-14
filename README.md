@@ -21,28 +21,53 @@
 </a>
 </p>
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JAYANTPARIHAR-CODER&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge"/>
+
+<a href="https://github.com/JAYANTPARIHAR-CODER?tab=followers">
+<img src="https://img.shields.io/github/followers/JAYANTPARIHAR-CODER?label=FOLLOWERS&style=for-the-badge&color=1E90FF"/>
+</a>
+
+</p>
+
 ---
 
 # 🚀 About Me
+
+<table>
+<tr>
+
+<td width="60%">
 
 🎓 Computer Science Engineering Student @ JUIT Solan
 
 📊 CGPA: **8.84 / 10**
 
-🔥 Backend Developer — focused on strong fundamentals
+🔥 Full Stack Developer | Backend Focused
 
-🧠 AI Enthusiast — exploring LLMs, RAG & Intelligent Systems
+🧠 AI Enthusiast — Exploring LLMs, RAG & Intelligent Systems
 
-⚔️ DSA Learner — solving problems consistently on LeetCode
+⚔️ DSA Problem Solver
 
-🏆 Hackathon Builder — passionate about building real products
+🏆 Hackathon Builder
 
-🚀 Currently Building: **SupplyAI**
+🍬 Recently Built: **Saini Sweets**
 
 📌 Interested in Backend Engineering, AI & System Design
 
 📌 Focused on clean code, problem solving and long-term mastery
 
+</td>
+
+<td width="40%">
+
+<img src="create_a_vedio_like_this_in_wh-ezgif-com-video-to-gif-converter.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🛠️ Tech Arsenal
