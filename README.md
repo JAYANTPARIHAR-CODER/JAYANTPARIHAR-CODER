@@ -62,7 +62,7 @@
 
 <td width="40%">
 
-<img src="create_a_vedio_like_this_in_wh-ezgif-com-video-to-gif-converter.gif" width="350"/>
+<img src="./create_a_vedio_like_this_in_wh-ezgif-com-video-to-gif-converter.gif" width="350"/>
 
 </td>
 
