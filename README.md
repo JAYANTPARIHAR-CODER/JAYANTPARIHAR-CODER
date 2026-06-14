@@ -40,7 +40,7 @@
 
 <td width="60%">
 
-🎓 Computer Science Engineering Student @ JUIT Solan
+🎓 Computer Science Engineering Student @ Chitkara University
 
 📊 CGPA: **8.84 / 10**
 
@@ -62,7 +62,7 @@
 
 <td width="40%">
 
-<img src="./create_a_vedio_like_this_in_wh-ezgif-com-video-to-gif-converter.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/JAYANTPARIHAR-CODER/JAYANTPARIHAR-CODER/main/coding.gif" width="350"/>
 
 </td>
 
