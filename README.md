@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Jayant Parihar! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+DSA+Enthusiast;AI+%26+LLM+Learner;Building+SupplyAI;Always+Learning+New+Things" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+DSA+Enthusiast;AI+%26+LLM+Learner;Building+Cool+Projects" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20Digital%20World&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient"/>
@@ -95,22 +94,47 @@ Sharpening logic every day — one problem at a time.
 
 # 🚀 Featured Project
 
-## SupplyAI
+<div align="center">
 
-AI Powered B2B Supplier Discovery Platform
+## 🍬 Saini Sweets
 
-### Features
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
 
-✅ AI Chatbot
+<img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel"/>
 
-✅ Supplier Discovery
+</div>
 
-✅ Smart Recommendations
+### About
 
-✅ RAG Search
+Saini Sweets is a modern web application built to showcase traditional Indian sweets through a clean, responsive, and user-friendly interface.
 
-✅ Business Intelligence
+### Key Highlights
 
+✨ Beautiful Landing Page
+
+✨ Responsive Design
+
+✨ Modern UI
+
+✨ Fast Performance
+
+✨ Mobile Friendly
+
+✨ Professional Business Presence
+
+### Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,vercel" />
+</p>
+
+### Live Demo
+
+<p align="center">
+<a href="https://saini-sweets-u17h.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Live%20Project-FF6B35?style=for-the-badge"/>
+</a>
+</p>
 ---
 
 # 🌱 Currently Learning
