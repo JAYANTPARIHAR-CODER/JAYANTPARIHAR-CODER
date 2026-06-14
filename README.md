@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jayant Parihar! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+DSA+Enthusiast;AI+%26+LLM+Learner;Building+Cool+Projects" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Backend+Focused;AI+%26+LLM+Learner;DSA+Problem+Solver;Building+Real+World+Projects;Consistent+%7C+Focused+%7C+Growing" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20Digital%20World&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient"/>
 </p>
