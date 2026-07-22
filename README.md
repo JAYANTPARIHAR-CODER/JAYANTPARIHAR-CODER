@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+Backend+Focused;AI+%26+LLM+Learner;DSA+Problem+Solver;Building+Real+World+Projects;Consistent+%7C+Focused+%7C+Growing" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20Digital%20World&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient"/>
 </p>
@@ -20,7 +21,6 @@
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
-
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JAYANTPARIHAR-CODER&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge"/>
@@ -46,7 +46,7 @@
 
 🔥 Full Stack Developer | Backend Focused
 
-🧠 AI Enthusiast — Exploring LLMs, RAG & Intelligent Systems
+🧠 AI Enthusiast — Exploring LLMs, Generative AI & Intelligent Systems
 
 ⚔️ DSA Problem Solver
 
@@ -68,6 +68,7 @@
 
 </tr>
 </table>
+
 ---
 
 # 🛠️ Tech Arsenal
@@ -75,7 +76,7 @@
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
 ### 🚀 Frameworks & Libraries
@@ -129,37 +130,33 @@ Sharpening logic every day — one problem at a time.
 
 </div>
 
-### About
+## 📖 About
 
 Saini Sweets is a modern web application built to showcase traditional Indian sweets through a clean, responsive, and user-friendly interface.
 
-### Key Highlights
+### ✨ Key Highlights
 
-✨ Beautiful Landing Page
+- Beautiful Landing Page
+- Responsive Design
+- Modern UI
+- Fast Performance
+- Mobile Friendly
+- Professional Business Presence
 
-✨ Responsive Design
-
-✨ Modern UI
-
-✨ Fast Performance
-
-✨ Mobile Friendly
-
-✨ Professional Business Presence
-
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,vercel" />
 </p>
 
-### Live Demo
+### 🌐 Live Demo
 
 <p align="center">
 <a href="https://saini-sweets-u17h.vercel.app/">
 <img src="https://img.shields.io/badge/View%20Live%20Project-FF6B35?style=for-the-badge"/>
 </a>
 </p>
+
 ---
 
 # 🌱 Currently Learning
@@ -169,8 +166,6 @@ Saini Sweets is a modern web application built to showcase traditional Indian sw
 📚 Full Stack Development
 
 📚 Generative AI
-
-📚 RAG Applications
 
 📚 System Design
 
